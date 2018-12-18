@@ -1,0 +1,11 @@
+{
+    "name": "tweet-client",
+    "version": "0.0.1",
+    "description": "an http tweets client",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "superagent": "^4.0.0-beta.5"
+    }
+}
